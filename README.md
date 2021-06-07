@@ -1,10 +1,10 @@
-# To compare temperature between 2 condition
+# To compare Rpi temperature
 ### Constant 
 - Pi 4 8GB
 - Ubuntu Mate 20.10
 - Room temperature
 - Argon Neo with no GPIO fan
 
-### 2 different condition
+### 2 Different Condition
 - top case open
 - top case close
